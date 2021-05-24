@@ -17,4 +17,13 @@ void main() {
 
   bool vv = true;
   bool vf = false;
+
+  //saía interpolada
+  print('Seu nome: $novoNome');
+  print('Nascimento: $ano');
+  print('Sua altura: $altura');
+  print('Seu cpf: $cpf');
+  print('Resultado da vv: $vv');
+  print('Resultado da vf: $vf');
+  
 }
