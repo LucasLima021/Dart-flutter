@@ -5,7 +5,7 @@
 import 'funcao_void.dart';
 
 void main() {
-  //chamando a função com parâmetro posicional
+  //chamando a função com parâmetro nomeado
   exibirCadastro(funcao: 'Gerente', funcionario: 'Lucas Lima', salario: 4000);
 }
 

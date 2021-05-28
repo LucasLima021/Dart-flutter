@@ -11,7 +11,7 @@ void main() {
   minhaLista.add('Php');
   minhaLista.add('C');
 
-  //remover elemnto da lista
+  //remover elemento da lista
   minhaLista.remove('Php');
 
   //reomver elemento da lista pelo índice

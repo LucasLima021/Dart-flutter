@@ -1,5 +1,5 @@
 void main() {
-  //criando variaveis de tipods dinâmicos
+  //criando variaveis de tipos dinâmicos
   dynamic a = 1000;
   dynamic b = ' Mundo!';
 
