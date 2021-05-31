@@ -15,5 +15,6 @@ void main() {
   print('O valor do produto é ${produto(10, 5)}');
   print('O valor da divisão é ${divisao(50, 2)}');
   print('O valor da média é ${media(10, 10)}');
+
   print('O valor do modulo é ${modulo(20, 3)}');
 }

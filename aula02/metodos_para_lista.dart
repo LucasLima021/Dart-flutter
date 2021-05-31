@@ -14,7 +14,7 @@ void main() {
   //remover elemento da lista
   minhaLista.remove('Php');
 
-  //reomver elemento da lista pelo índice
+  //remover elemento da lista pelo índice
   minhaLista.removeAt(2);
 
   //removendo o último elemento da lista
